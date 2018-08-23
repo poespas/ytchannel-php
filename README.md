@@ -1,4 +1,12 @@
 # ytchannel-php
+
+
+
+This script was written when I was 14 y/o,
+
+
+
+
 PHP code to handle a Youtube Channel
 
 How to use this api?
