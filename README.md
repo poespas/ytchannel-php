@@ -2,7 +2,7 @@
 
 
 
-This script was written when I was 14 y/o,
+[This script was written when I was 14 y/o]
 
 
 
