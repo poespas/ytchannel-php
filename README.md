@@ -2,7 +2,7 @@
 
 
 
-[This script was written when I was 14 y/o]
+[This script was written when I was 14 y/o, It is only up to see how much progress I have made, I don't recommend using any of this code]
 
 
 
